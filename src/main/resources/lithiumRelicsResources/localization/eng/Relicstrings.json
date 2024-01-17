@@ -1,0 +1,16 @@
+{
+  "${ModID}:IronFist": {
+    "NAME": "Iron Fist",
+    "FLAVOR": "For when you have to hit harder.",
+    "DESCRIPTIONS": [
+      "Every 3 Attacks played, gain 2 Temporary Strength."
+    ]
+  },
+  "${ModID}:Encouragement": {
+    "NAME": "Encouragement",
+    "FLAVOR": "Do it again.",
+    "DESCRIPTIONS": [
+      "Attacks that would deal 5 or less damage are played twice once per turn."
+    ]
+  }
+}
